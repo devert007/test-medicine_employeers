@@ -1,3 +1,5 @@
+In console:
+
 ### `First step`
 Clone the repository to your files
 #### `git clone https://github.com/devert007/test-medicine_employeers.git`
